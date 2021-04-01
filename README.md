@@ -5,3 +5,6 @@ challenge_1
 
 ![image](https://github.com/gab-costa/Web_scraping/blob/main/challenge_1.png)
 
+solution:
+![solution](https://github.com/gab-costa/Web_scraping/blob/main/challeng_solution.png)
+
