@@ -6,6 +6,14 @@ challenge_1
 
 ![image_youtube_estatistica](https://github.com/gab-costa/Web_scraping/blob/main/main_project/img/estatistica.png)
 
+![image_youtube_assuntos](https://github.com/gab-costa/Web_scraping/blob/main/main_project/img/assuntos_falados.png)
+
+![image_youtube_dados](https://github.com/gab-costa/Web_scraping/blob/main/main_project/img/img_datas.png)
+
+![image_youtube_dados](https://github.com/gab-costa/Web_scraping/blob/main/main_project/img/img_lists_videos.png)
+
+the next images are of the challenges of the course
+
 ![image](https://github.com/gab-costa/Web_scraping/blob/main/challenge_1.png)
 
 solution:
