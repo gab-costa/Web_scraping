@@ -4,7 +4,7 @@ including some challenges and the main project, Where I used an API from youtube
 
 challenge_1
 
-![image_youtube]
+![image_youtube_estatistica](https://github.com/gab-costa/Web_scraping/blob/main/main_project/img/estatistica.png)
 
 ![image](https://github.com/gab-costa/Web_scraping/blob/main/challenge_1.png)
 
